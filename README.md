@@ -1,3 +1,5 @@
+![Avalanche](https://img.shields.io/badge/Network-Avalanche-red)
+
 # Avalanche Vehicle Registry
 
 Smart contract for peer-to-peer vehicle title transfers on Avalanche. Built for Avalanche Build Games Round 2.
