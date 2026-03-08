@@ -20,3 +20,10 @@ Fuji Testnet: [0x257674cC71476003D94F70795Db06feBdFA07C1d](https://testnet.route
 2. Grant roles and mint vehicles.
 
 License: MIT
+
+## Verificataion
+- Sourcify verification successful.
+https://repo.sourcify.dev/43113/0x257674cC71476003D94F70795Db06feBdFA07C1d/
+
+- Routescan verification successful.
+https://testnet.routescan.io/address/0x257674cC71476003D94F70795Db06feBdFA07C1d/contract/43113/code
